@@ -14,5 +14,5 @@ $(document).ready(function(){
 
     stage.addChild(circle);
 
-    stage.update(); //tbd
+    stage.update();
 });
